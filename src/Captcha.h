@@ -14,8 +14,7 @@
 #define IMAGE_W 200
 #define CAPTCHA_LEN 5
 
-
-int
-generateCaptcha(std::vector<unsigned char>& buffer, std::string& captcha_text);
+int generateCaptcha(std::vector<unsigned char> &buffer,
+                    std::string &captcha_text);
 
 #endif
