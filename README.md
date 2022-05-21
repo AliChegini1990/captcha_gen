@@ -1,5 +1,5 @@
 # Captcha generator
-Simple captcha generator by using opencv.
+A C++ library for making captcha.
 
 # Requirement
 * opencv
